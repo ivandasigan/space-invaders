@@ -1,0 +1,11 @@
+
+# Generated files #
+.DS_Store
+
+
+# Packages #
+############
+
+*.rar
+*.tar
+*.zip
